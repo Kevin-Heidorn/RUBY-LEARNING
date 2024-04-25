@@ -18,5 +18,7 @@ case age
  else  
     puts("Do you think life is easy? ")
 
-   end
+   end 
+   
+
 
