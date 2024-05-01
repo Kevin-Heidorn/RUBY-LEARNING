@@ -20,9 +20,9 @@ if (dia == "domingo");
 
  almoco ='especial'
 
- elsif (dia == "feriado");
+ elsif (dia == "feriado"); 
     almoco = "mais tarde"
-
+ 
 else 
   almoco = 'normal'  
 
